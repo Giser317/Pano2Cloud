@@ -6,9 +6,6 @@ This repository contains the reference implementation of **Pano2Cloud**,
 a three-stage framework for reconstructing building facades from street-view panoramas.  
 It accompanies our paper:
 
-> **[Paper title]**  
-> [Authors], [Year].  
-> Submitted to *[Journal / Special Issue]*.
 
 ---
 ## Motivation
@@ -75,7 +72,7 @@ Pano2Cloud/
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/Pano2Cloud.git
+git clone https://github.com/Giser317/Pano2Cloud.git
 cd Pano2Cloud
 pip install -r requirements.txt
 
